@@ -1,5 +1,8 @@
 # Watermelon-problem
 problem number 4A on Codeforces
+Not sure if it is supposed to be coded like that because I don't take into consideration that parts may be unequal, however the solution was accepted.
+
+Here's the problem:
 
 One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their opinion. After that the watermelon was weighed, and the scales showed w kilos. They rushed home, dying of thirst, and decided to divide the berry, however they faced a hard problem.
 
@@ -20,4 +23,4 @@ For example, the boys can divide the watermelon into two parts of 2 and 6 kilos 
 
 
 
-Not sure if it is supposed to be coded like that because I don't take into consideration that parts may be unequal, however the solution was accepted.
+
