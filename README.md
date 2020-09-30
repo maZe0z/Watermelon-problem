@@ -1,5 +1,6 @@
 # Watermelon-problem
-problem number 4A on Codeforces
+Problem number 4A on Codeforces.
+
 Not sure if it is supposed to be coded like that because I don't take into consideration that parts may be unequal, however the solution was accepted.
 
 Here's the problem:
