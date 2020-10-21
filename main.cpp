@@ -8,7 +8,7 @@ int main() {
     if (w%2!=0 || w==2){
         cout << "NO";
     }
-    else if (w%2==0){
+    else {
         cout << "YES";
     }
     return 0;
